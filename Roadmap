@@ -1,0 +1,16 @@
+Comments:
+---------
+
+Single line comment #
+Multi line comment ''' or """ must ends with ''' or """
+
+Operators:
+----------
+1. Arithmetic Operators
+2. Relational
+3. Logical
+4. Bitwise (&, |, ^, ~, <<, >>)
+5. is operator
+6. Types: int, float, complex, list, tuple, dict, bool
+7. input()
+8. print() + formatted strings
